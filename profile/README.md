@@ -5,3 +5,7 @@
 # Our Team
 
 - [sejinjin](https://github.com/sejin0104)
+
+# Supported by
+
+- Github Education

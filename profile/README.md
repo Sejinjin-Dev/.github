@@ -5,6 +5,7 @@
 # Our Team
 
 - [sejinjin](https://github.com/sejin0104)
+- [doyoon100](https://github.com/doyoon100)
 
 # Supported by
 
